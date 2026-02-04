@@ -1,0 +1,9 @@
+*.retry
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.key
+*.pem
+id_rsa
+.env

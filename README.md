@@ -32,3 +32,6 @@ Prometheus: http://localhost:9090
 ```Bash
 ansible-playbook -i hosts.ini install_nginx.yml -K
 ```
+
+## Готовый мониторинг Prometheus + Grafana
+![Image alt](assets/monitoring_dashboard.png)
